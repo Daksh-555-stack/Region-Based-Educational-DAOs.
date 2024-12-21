@@ -7,6 +7,8 @@ The DAO fosters local educational development by allowing members to submit prop
 
 ## Contract Address
 0x9EeE8D7B30dA844AD07e812501A1D340b4e2b1d8
+![image](https://github.com/user-attachments/assets/452bc64c-222b-4242-a7ce-4e67fc0c3564)
+
 
 ## Project Vision
 The vision of Region-Based Educational DAOs is to:
